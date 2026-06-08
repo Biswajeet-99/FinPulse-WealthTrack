@@ -18,5 +18,5 @@ FinPulse is a desktop application designed to track personal wealth and analyze 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/finpulse-dashboard.git](https://github.com/YourUsername/finpulse-dashboard.git)
-   cd finpulse-dashboard
+   git clone [https://github.com/Biswajeet-99/ FinPulse-WealthTrack.git](https://github.com/Biswajeet-99/FinPulse-WealthTrack.git)
+   cd FinPulse-WealthTrack
